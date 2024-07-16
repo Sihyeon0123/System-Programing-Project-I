@@ -51,3 +51,4 @@ _client폴더로 이동하여 클라이언트를 실행합니다.
 ---
 
 ## 실행 화면
+![GIF 2024-07-16 오후 5-42-36](https://github.com/user-attachments/assets/ca1dc3d4-1849-40a7-ab45-b28c5ff50da8)
